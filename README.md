@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Saqib-Aziz007
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Android Projects
-- 📫 How to reach me at saqib.aziz1000@gmail.com 
+- 👀 I’m interested in Mobile Application Development
+- 🌱 I’m currently learning React Native and have intermediate level skills in Flutter.
+- 💞️ I’m looking to collaborate on Mobile Application Projects.
+- 📫 You can reach me at saqib.aziz1000@gmail.com or WhatsApp on +923-156-233-964
 
 <!---
 Saqib-Aziz007/Saqib-Aziz007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
