@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Application Development
 - 🌱 I’m currently learning React Native and have intermediate level skills in Flutter.
 - 💞️ I’m looking to collaborate on Mobile Application Projects.
-- 📫 You can reach me at saqib.aziz1000@gmail.com or WhatsApp on +923-156-233-964
+- 📫 You can reach me at saqib.aziz1000@gmail.com or WhatsApp on +923156233964
 
 <!---
 Saqib-Aziz007/Saqib-Aziz007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
